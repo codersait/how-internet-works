@@ -4,5 +4,5 @@ h1 {
 img {
   display: block;
   margin-bottom: 20px;
-  margin: auto;
+  margin: 0 auto 20px;
 }
