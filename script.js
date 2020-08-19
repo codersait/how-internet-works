@@ -1,1 +1,1 @@
-const btn = document.querySelector('btn')
+alert('selam')
